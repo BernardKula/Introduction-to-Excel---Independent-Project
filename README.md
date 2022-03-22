@@ -8,7 +8,8 @@ video games with sales, critics, and user score data.
 
 You will be required to do the following:<br />
 ● Perform data cleaning techniques using the provided data cleaning guidelines.<br />
-          ○ Remember to provide documentation of the data cleaning steps taken.<br />
+
+          ○ Remember to provide documentation of the data cleaning steps taken.
 ● Come up with five critical questions that you will answer to provide recommendations.<br />
 ● Perform data analysis techniques to answer your questions.<br />
 ● Ensure that you have at least three visualizations from the questions that you will have
